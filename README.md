@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rosy Medina
 
-<!--
-**RositsMO/RositsMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Engineer with experience in:
 
-Here are some ideas to get you started:
+- Manual Testing
+- API Testing with Postman
+- Jira Bug Tracking
+- SQL Validation
+- Functional & Regression Testing
+- Test Case Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- Postman
+- Jira
+- SQL
+- Python (learning)
+- Selenium (learning)
+- GitHub
+
+## 📌 Featured Projects
+- API Testing – Urban Grocers
+- Web Testing – Car Sharing App
+- Mobile Testing – Urban Lunch
+- SQL & Log Analysis – Taxi App
+
+## 🌎 Languages
+- Spanish: Native
+- English: C1
+
+📫 Contact
+- LinkedIn: linkedin.com/in/roermeol
+- Email: rosemedinaolvera@gmail.com
