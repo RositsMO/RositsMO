@@ -28,5 +28,5 @@ Junior QA Engineer with experience in:
 - English: C1
 
 📫 Contact
-- LinkedIn: linkedin.com/in/roermeol
+- LinkedIn: linkedin.com/in/rosemedol
 - Email: rosemedinaolvera@gmail.com
