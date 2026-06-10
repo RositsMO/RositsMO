@@ -42,11 +42,11 @@ I completed the QA Engineering Bootcamp at TripleTen, where I developed hands-on
 
 Test cases, bug reports, testing evidence, and functional testing artifacts created during QA projects.
 
-### 🔹 [API Testing Portfolio](https://github.com/RositsMO/api-testing-portfolio)
+### [API Testing Portfolio](https://github.com/RositsMO/api-testing-portfolio)
 
 Validation of REST API endpoints using GET, POST, PUT, and DELETE requests with Postman.
 
-### 🔹 [API Test Automation](https://github.com/RositsMO/api-test-automation)
+### [API Test Automation](https://github.com/RositsMO/api-test-automation)
 
 Automated API testing using Python, Requests, and Pytest, including positive and negative test scenarios.
 
