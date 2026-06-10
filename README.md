@@ -8,7 +8,7 @@ I completed the QA Engineering Bootcamp at TripleTen, where I developed hands-on
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 * Manual Testing
 * Functional Testing
@@ -23,7 +23,7 @@ I completed the QA Engineering Bootcamp at TripleTen, where I developed hands-on
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 * Postman
 * Jira
@@ -36,34 +36,34 @@ I completed the QA Engineering Bootcamp at TripleTen, where I developed hands-on
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔹 Manual Testing Portfolio
+###  Manual Testing Portfolio
 
 Test cases, bug reports, testing evidence, and functional testing artifacts created during QA projects.
 
-### 🔹 API Testing Portfolio
+###  API Testing Portfolio
 
 Validation of REST API endpoints using GET, POST, PUT, and DELETE requests with Postman.
 
-### 🔹 API Test Automation
+###  API Test Automation
 
 Automated API testing using Python, Requests, and Pytest, including positive and negative test scenarios.
 
-### 🔹 Database & Log Analysis
+###  Database & Log Analysis
 
 SQL queries and log analysis used to validate data consistency and investigate system behavior.
 
 ---
 
-## 🌎 Languages
+##  Languages
 
 * Spanish: Native
 * English: Intermediate (B2)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 * LinkedIn: [www.linkedin.com/in/rosemedol](http://www.linkedin.com/in/rosemedol)
 * Email: [rosemedinaolvera@gmail.com](mailto:rosemedinaolvera@gmail.com)
